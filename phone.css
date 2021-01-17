@@ -1,0 +1,47 @@
+/* navigation  */
+#navbar{
+   /* flex-direction: column; */
+
+}
+#home{
+    /* height: 280px; */
+    
+
+}
+#home::before{
+    /* height: 370px; */
+
+
+}
+#home{
+    /* height: 370px;
+    font-size: 13px; */
+
+
+}
+
+/* second part  */
+#model-1{
+    /* flex-direction: column; */
+
+}
+
+#model-1 .box{
+
+}
+
+/* third part  */
+#model-2{
+
+}
+/* brand section  */
+#brand{
+
+    /* overflow: hidden; */
+
+}
+
+/* footer  */
+footer{
+
+}

@@ -1,0 +1,102 @@
+/*  first laptop section  */
+#new-model{
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+}
+#new-model .new-box{
+    /* border: 1.5px solid black; */
+    padding: 30px;
+    margin: 6px 15px;
+  
+}
+#new-model .new-box h2{
+    font-size: 2rem;
+    padding: 12px;
+    /* font-style: initial; */
+    font-family: monospace;
+    cursor: pointer;
+}
+#new-model .new-box img{
+    display: block;
+    height: 250px;
+    margin: auto;
+    margin-bottom: 20px;
+    cursor: pointer;
+
+}
+#new-model  .new-box p{
+    /* font-size: 1.4rem; */
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#new-model .new-btn{
+    width: 130px;
+    height: 42px;
+    background-color: #0171ad;
+    border: 2px solid #0171ad;
+    color: white;
+    padding: 2px 3px;
+    display: block;
+    margin: 13px auto;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+#new-model .new-btn:hover{
+ background-color:black;
+ color:#0171ad; 
+ border: 1px solid #0171ad;
+ transition: all 0.3s ease-out;  
+}
+
+/* second laptop section   */
+
+#new-model2{
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+}
+#new-model2 .new-box{
+    /* border: 1.5px solid black; */
+    padding: 30px;
+    margin: 6px 15px;
+  
+}
+#new-model2 .new-box h2{
+    font-size: 2rem;
+    padding: 12px;
+    /* font-style: initial; */
+    font-family: monospace;
+    cursor: pointer;
+}
+#new-model2 .new-box img{
+    display: block;
+    height: 250px;
+    margin: auto;
+    margin-bottom: 20px;
+    cursor: pointer;
+
+}
+#new-model2  .new-box p{
+    /* font-size: 1.4rem; */
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#new-model2 .new-btn{
+    width: 130px;
+    height: 42px;
+    background-color: #0171ad;
+    border: 2px solid #0171ad;
+    color: white;
+    padding: 2px 3px;
+    display: block;
+    margin: 13px auto;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+#new-model2 .new-btn:hover{
+ background-color:white;
+ color:#0171ad; 
+ border: 1px solid #0171ad;
+ transition: all 0.3s ease-out;  
+}
